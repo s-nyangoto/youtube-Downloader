@@ -3,7 +3,7 @@ from pytube import YouTube
 import os
 
 # where to save
-SAVE_PATH = "/Users/Username/Desktop" # to_do
+SAVE_PATH = "Enter path e.g. C:\Users" # to_do
 
 # link of the video to be downloaded
 link = "paste youtube link here"
