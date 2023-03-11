@@ -6,7 +6,7 @@ import os
 SAVE_PATH = "/Users/Username/Desktop" # to_do
 
 # link of the video to be downloaded
-link = "https://www.youtube.com/watch?v=4OkPzXBBjPs"
+link = "paste youtube link here"
 
 try:
     # object creation using YouTube
